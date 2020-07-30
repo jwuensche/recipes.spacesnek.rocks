@@ -70,6 +70,16 @@
   text-align: center;
 }
 
+.bottom-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  font-size: 1em;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -79,10 +89,6 @@ img {
     .sidebox {
         flex-direction: row;
         justify-content: space-between;
-    }
-
-    .outer {
-        height: 100%;
     }
 
     .list {
