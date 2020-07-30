@@ -1,6 +1,6 @@
 # Welcome to spacesnek.rocks :wave:
 
-This is the content of a tiny static site I host under [spacesnek.rocks](http://spacesnek.rocks).
+This is the content of a tiny static site I host under [spacesnek.rocks](https://recipes.spacesnek.rocks).
 
 
 ## Attribution :heart:
